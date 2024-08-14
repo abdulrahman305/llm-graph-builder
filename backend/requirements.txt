@@ -95,7 +95,7 @@ multidict==6.0.5
 mypy-extensions==1.0.0
 neo4j-rust-ext
 networkx==3.2.1
-nltk==3.8.1
+nltk==3.8.2
 numpy==1.26.4
 omegaconf==2.3.0
 onnx==1.16.1
