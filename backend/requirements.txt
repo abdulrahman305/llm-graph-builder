@@ -61,7 +61,7 @@ idna==3.6
 importlib-resources==6.1.1
 pip-install==1.3.5
 iopath==0.1.10
-Jinja2==3.1.3
+Jinja2==3.1.6
 jmespath==1.0.1
 joblib==1.3.2
 jsonpatch==1.33
