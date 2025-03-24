@@ -22,7 +22,7 @@
     "@react-oauth/google": "^0.12.1",
     "@tanstack/react-table": "^8.20.5",
     "@types/uuid": "^9.0.7",
-    "axios": "^1.6.5",
+    "axios": "^1.8.3",
     "clsx": "^2.1.1",
     "eslint-plugin-react": "^7.33.2",
     "neo4j-driver": "^5.14.0",
