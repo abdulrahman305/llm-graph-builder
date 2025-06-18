@@ -61,3 +61,5 @@ rouge_score==0.1.2
 langchain-neo4j==0.3.0
 pypandoc-binary==1.15
 chardet==5.2.0
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
